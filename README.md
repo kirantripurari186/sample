@@ -9,6 +9,6 @@ main
 
 feature 1
 
-main 2
+main 2 1
 
 release 1
