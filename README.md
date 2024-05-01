@@ -11,4 +11,4 @@ feature 1
 
 main 2
 
-release
+release 1
